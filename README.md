@@ -1,2 +1,1 @@
-# APS
 # alerce
